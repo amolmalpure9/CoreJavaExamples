@@ -1,5 +1,10 @@
 package com.test;
 
+/*
+This program is sample implementation of 3 dimentional array
+3 dimentional array is nothing but array of 2 dimentional array
+*/
+
 public class Array3D {
 
 	public static void main(String[] args) {
